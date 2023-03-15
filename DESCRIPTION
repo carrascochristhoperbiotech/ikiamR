@@ -1,6 +1,6 @@
 Package: ikiamR
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Probar la creaccion de paquetes
 Version: 0.1.0
 Author: Who wrote it
 Maintainer: The package maintainer <yourself@somewhere.net>
@@ -12,3 +12,6 @@ LazyData: true
 RoxygenNote: 7.2.3
 URL: https://github.com/carrascochristhoperbiotech/ikiamR
 BugReports: https://github.com/carrascochristhoperbiotech/ikiamR/issues
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
